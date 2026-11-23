@@ -8,6 +8,8 @@ Ask your AI assistant things like "which template is the End of Watch meme and h
 - No API key, no sign-in
 - Read-only: it lists templates and prices, it can't make videos or touch accounts
 
+It is also listed in the official MCP Registry as `com.mypetdance/templates`.
+
 
 ## Tools
 
